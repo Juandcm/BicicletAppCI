@@ -1,0 +1,95 @@
+Tabla users:
+new_message
+
+
+el sistema tiene un foro donde los usuarios podran ver las preguntas de otros usuarios y asi poder ver si tienen respuestas
+
+el sistema tiene que tener una parte donde el usuario pueda ver las bicicletas y ver las partes que las componen, eso va en la parte de categoria
+
+
+tengo que hacer una parte donde el usuario pueda jugar respondiendo preguntas y viendo las respuestas
+
+
+los tipos de categorias pueden ser: 
+
+
+
+lo que puedo utilizar de la plantilla para el sistema:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/starter-kit.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/index.html la parte de mensajes
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/app-taskboard.html todo
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/inbox-email.html mensajeria
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/app-chats.html chat interno
+
+componentes reutilizables
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-card-customs.html cards calidad
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/widgets-apps.html# widgets
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-list-media.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/widgets-data.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-tab.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-grid.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-spinner.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-card-draggable.html efecto calidad de los card
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-tooltip-popover.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-bootstrap.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-cards.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/component-toastr.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/chart-echart-bar.html
+
+FORMULARIOS
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-repeater.html agregar campos
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-wizard.html form por pasos
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-input-groups.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-checkbox-radio.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-bootstrap-touchspin.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-bootstrap-switch.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-select2.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-dual-listbox.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-actions.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-dropzone.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-mask.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-bootstrap-validation.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-custom-validation.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-editor-ckeditor.html
+
+datatable:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/index3.html datatable
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/eco-products-orders.html datatable
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-user-contacts.html datatable
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/pages-invoice-list.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/table-datatable-advanced.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/table-footable.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/table-editable.html
+
+iconos:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/icon-fontawesome.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/icon-simple-lineicon.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/icon-themify.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/icon-material.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/icon-weather.html
+
+errores:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/error-400.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/error-403.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/error-404.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/error-503.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/error-500.html
+
+animaciones:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/pages-animation.html
+
+buscador:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/pages-search-result.html
+
+cargar card o bloques:
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/pages-block-ui.html
+
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-breadcrumb.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/ui-buttons.html botones buenos
+
+para utilizar en el formulario
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-mask.html
+
+
+esto lo puedo utilizar para los foros
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/app-chats.html

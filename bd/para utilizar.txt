@@ -1,0 +1,7 @@
+para utilizar en el formulario de preguntas y respuesta
+
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-repeater.html
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/form-bootstrap-switch.html
+
+Esto puede ser util
+file:///C:/xampp/htdocs/bicicletappci/public/vistasplantilla/horizontal/pages-block-ui.html
